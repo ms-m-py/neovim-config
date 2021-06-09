@@ -1,6 +1,6 @@
 # neovim-config
 
-#install 
+# install 
 _____________________________-
 
 arch : 
@@ -10,7 +10,7 @@ pacman -S neovim
 ubuntu :
 sudo apt install neovim
 _________________________________
-#install npm
+# install npm
 arch :
 
 sudo pacman -S nodejs npm
@@ -20,7 +20,7 @@ ubuntu :
 sudo apt install nodejs npm
 
 _______________________________
-#config
+# config
 
 git clone https://github.com/ms-m-py/neovim-config.git
 
@@ -42,7 +42,7 @@ nvim +PlugInstall
 
 __________________________________________
 
-#install coc-pyright and ...
+# install coc-pyright and ...
 
 run in neovim :
 
