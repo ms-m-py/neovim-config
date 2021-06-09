@@ -37,6 +37,8 @@ pip3 install pynvim flake8 pylint isort jedi pynvim
 
 cp init.vim ~/.config/nvim
 
+cp coc-settings.json ~/.config/nvim
+
 nvim +PlugInstall
 
 
