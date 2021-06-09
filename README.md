@@ -3,21 +3,16 @@
 # install 
 _____________________________
 
-arch : 
-pacman -S neovim
+arch :    pacman -S neovim
 
 
-ubuntu :
-sudo apt install neovim
+ubuntu :    sudo apt install neovim
 _________________________________
 # install npm
-arch :
-
-sudo pacman -S nodejs npm
+arch :    sudo pacman -S nodejs npm
 
 
-ubuntu :
-sudo apt install nodejs npm
+ubuntu :    sudo apt install nodejs npm
 
 _______________________________
 # config
