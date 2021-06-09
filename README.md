@@ -1,7 +1,7 @@
 # neovim-config
 
 # install 
-_____________________________-
+_____________________________
 
 arch : 
 pacman -S neovim
